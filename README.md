@@ -1,6 +1,6 @@
-# Fight the Boss - NFT Game
+# Fight the Boss - NFT Magical Game
 
-Repo for the smart contract powering an NFT game hosted on the Ethereum blockchain. The game starts with a user selecting 1 of 3 character options available. In order to play, they need to mint an NFT of the character - this NFT belongs to the user's wallet address and is not stored in some centralised server out there. The NFT contains the stats of the character: HP, attack damage etc. 
+Repo for the smart contract for an NFT game that can be hosted on the Ethereum blockchain. The game starts with a user selecting 1 of 3 character options available. In order to play, they need to mint an NFT of the character - this NFT belongs to the user's wallet address and is not stored in some centralised server out there. The NFT contains the stats of the character: HP, attack damage etc. 
 
 Once the user has minted the character NFT, they are able to use the character to attack the Big Boss. Be careful, the Boss will fight back! Both the character's and the Boss's HP value will be updated after the attack (Big Boss is not an NFT - its data is stored natively in the contract).
 
